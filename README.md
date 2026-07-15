@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Zeba
+#  Hi, I'm Zeba
 
 Welcome to my AI Portfolio.
 
 I am an AI Developer with experience in building intelligent applications using Python, FastAPI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI automation.
 
-## 🔹 Skills
+##  Skills
 
 - Python
 - FastAPI
@@ -18,7 +18,7 @@ I am an AI Developer with experience in building intelligent applications using 
 - Git
 - SQL
 
-## 🚀 Portfolio Projects
+##  Portfolio Projects
 
 Projects will be added here as they are completed.
 
@@ -28,7 +28,7 @@ Projects will be added here as they are completed.
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 - LinkedIn:www.linkedin.com/in/zeba-najeeb
 - Email: zebarishab@gmail.com
